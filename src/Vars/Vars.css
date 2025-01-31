@@ -1,0 +1,13 @@
+:root{
+    /* FONT */
+    --font-dm-sans:"DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7);
+    --bg-main-color: #e8e8e8;
+    --float-window-color: #E8E3E1;
+    --box-shadow-2: inset 4px 4px 10px #bcbcbc, inset -4px -4px 10px #ffffff; /* Hole */
+    --box-shadow-1: 8px 8px 24px #b3b3b3,
+    -8px -8px 24px #ffffff;
+}
